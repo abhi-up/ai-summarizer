@@ -1,4 +1,4 @@
-# Article Summarizer with OpenAI GPT Model ✨
+# SumzAI | Article Summarizer with OpenAI GPT Model ✨
 
 Welcome to the Article Summarizer project! This is a web application built with modern technologies to provide a user-friendly interface for summarizing articles using the OpenAI GPT model. The project offers a seamless user experience with features like copy-to-clipboard, browsing history storage, and a responsive design.
 
