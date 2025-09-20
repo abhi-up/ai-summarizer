@@ -9,7 +9,7 @@ const Hero = () => {
         <button
           type="button"
           className="black_btn"
-          onClick={() => window.open("https://github.com")}
+          onClick={() => window.open("https://github.com/abhi-up/ai-summarizer/")}
         >
           Github
         </button>
@@ -29,3 +29,4 @@ const Hero = () => {
 }
 
 export default Hero
+
